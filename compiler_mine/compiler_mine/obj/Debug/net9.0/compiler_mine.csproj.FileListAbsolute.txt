@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\bin\Debug\net9.0\compiler_mine.exe
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\bin\Debug\net9.0\compiler_mine.deps.json
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\bin\Debug\net9.0\compiler_mine.runtimeconfig.json
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\bin\Debug\net9.0\compiler_mine.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\bin\Debug\net9.0\compiler_mine.pdb
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\refint\compiler_mine.dll
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.pdb
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\compiler_mine.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\uni 2024\2_year\YAPI\10_lab\compiler_mine\compiler_mine\obj\Debug\net9.0\ref\compiler_mine.dll
