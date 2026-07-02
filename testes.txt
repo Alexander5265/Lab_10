@@ -1,0 +1,34 @@
+program MyCompilerTest;
+
+var
+    x, y : integer;
+    resultValue : real;
+
+function CalculateSum(a : integer) : real;
+var
+    temp : real;
+begin
+    temp := a + 10.5;
+    CalculateSum := temp;
+end;
+
+begin
+    x := 5;
+    y := x * 2 + 3;
+    resultValue := CalculateSum(y) / 2.0;
+end.
+
+_____________________________________________________
+
+program MyErrorTest;
+
+var
+    x : integer;
+    x : real; { Ошибка: Дубликат переменной! }
+    y : char;
+
+begin
+    x := 10;
+    y := x + 5; { Ошибка: Несовместимые типы! Пытаемся числу присвоить char }
+    z := 20; { Ошибка: Использование необъявленной переменной z! }
+end.
